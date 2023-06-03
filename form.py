@@ -1,3 +1,21 @@
+from wtforms import Form, BooleanField, StringField, PasswordField, validators
+
+
+class Contact(Form):
+    pass
+
+
+class Address(Form):
+    pass
+
+
+class Payment(Form):
+    pass
+
+
+class Comment(Form):
+    pass
+
 
 #
 # contact
@@ -14,6 +32,7 @@
 # Promotional banners or offers
 # Testimonials or customer reviews
 # Call-to-action buttons for browsing products or signing up
+#
 # II. Shop/Categories
 #
 # Overview of different jewelry categories (necklaces, earrings, bracelets, etc.)

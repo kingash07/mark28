@@ -1,17 +1,55 @@
-
+from wtforms import Form, BooleanField, StringField, PasswordField, validators
 #
 # Users/Customer table:
-# Products table:
-# Categories table:
-# Orders table:
-# Order Items table:
-# Wishlist table:
-# Reviews table:
-# Shopping Cart table:
-# Payments table:
-# Coupons/Promotions table:
-#
 
+
+class Customer:
+    pass
+
+
+# Products table:
+class Products:
+    pass
+
+
+# Categories table:
+class Categories:
+    pass
+
+
+# Orders table:
+class Orders:
+    pass
+
+
+# Order Items table:
+class Items:
+    pass
+
+
+# Wishlist table:
+class Wishlist:
+    pass
+
+
+# Reviews table:
+class Reviews:
+    pass
+
+
+# Shopping Cart table:
+class Shopping:
+    pass
+
+
+# Payments table:
+class Payments:
+    pass
+
+
+# Coupons/Promotions table:
+class Coupons:
+    pass
 
 #
 # Users/Customer table: Stores information about registered users/customers, including their name, email, password,
