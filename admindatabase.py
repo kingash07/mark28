@@ -1,13 +1,43 @@
 
 #
 # Admin/Users table:
+class Admin:
+    pass
+
+
 # Inventory table
+class Inventory:
+    pass
+
+
 # Sales/Revenue table:
+class Sales:
+    pass
+
+
 # Shipping table:
+class Shipping:
+    pass
+
+
 # Returns/Refunds table:
+class Return:
+    pass
+
+
 # Analytics/Reports table:
+class Analytics:
+    pass
+
+
 # Notifications table:
+class Notification:
+    pass
+
+
 # Admin Logs table
+class AdminLogs:
+    pass
 #
 
 
