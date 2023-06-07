@@ -38,7 +38,7 @@ class Notification:
 # Admin Logs table
 class AdminLogs:
     pass
-#
+
 
 
 # Admin/Users table: Stores information about admin users who have access to the website's administrative features.
